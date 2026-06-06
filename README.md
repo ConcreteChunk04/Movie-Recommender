@@ -8,13 +8,12 @@ Trained on the **MovieLens dataset** (real user ratings collected by the GroupLe
 
 | Metric | Score |
 |---|---|
-| SVD RMSE | 0.90 |
-| Baseline RMSE | 1.04 |
-| Improvement | ~13% lower error than baseline |
+| SVD RMSE | 0.923 |
+| Baseline RMSE | 0.950 |
+| Improvement | 2.8% lower error than baseline |
 
-![Results](results/recommendation_charts.png)
+![Results](results/result/recommendation_charts.png)
 
-> Update these numbers with your own output after running the script.
 
 ## How It Works
 
