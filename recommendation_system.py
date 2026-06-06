@@ -124,9 +124,9 @@ def make_charts(ratings, rmse, base_rmse):
     ax.set_ylim(0, max(vals)*1.3)
     ax.spines[["top","right"]].set_visible(False)
     fig.tight_layout(pad=2.0)
-    fig.savefig("recommendation_charts.png", dpi=140)
+    fig.savefig("results/recommendation_charts.png", dpi=140)
     plt.close()
-    print("\nSaved: recommendation_charts.png")
+    print("\nSaved: results/recommendation_charts.png")
 
 
 def main():
