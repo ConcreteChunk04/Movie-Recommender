@@ -12,7 +12,7 @@ Trained on the **MovieLens dataset** (real user ratings collected by the GroupLe
 | Baseline RMSE | 0.950 |
 | Improvement | 2.8% lower error than baseline |
 
-![Results](results/result/recommendation_charts.png)
+![Results](result/recommendation_charts.png)
 
 
 ## How It Works
